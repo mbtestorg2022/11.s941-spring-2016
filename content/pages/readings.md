@@ -58,11 +58,11 @@ Krieger, Nancy. "[Theories for Social Epidemiology in the 21st century: An Ecoso
 {{< tdopen >}}
 
 
-Gottlieb, Laura, Paula K. Braverman, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["_Health Impact Assessment: A Tool for Promoting Health in All Policies_." (PDF)](http://www.rwjf.org/content/dam/farm/reports/issue_briefs/2011/rwjf70449) Robert Wood Johnson Foundation, 2011. \[You may need to open this file manually in Adobe Acrobat\]
+Gottlieb, Laura, Paula K. Braverman, et al. ["_Health Impact Assessment: A Tool for Promoting Health in All Policies_." (PDF)](http://www.rwjf.org/content/dam/farm/reports/issue_briefs/2011/rwjf70449) Robert Wood Johnson Foundation, 2011. \[You may need to open this file manually in Adobe Acrobat\]
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif) Kemm, John. [Chapter 1](http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199656011.001.0001/acprof-9780199656011) in _Health Impact Assessment: Past Achievement, Current Understanding, and Future Progress._ Oxford University Press, 2013. ISBN: 9780199656011.
+ Kemm, John. [Chapter 1](http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199656011.001.0001/acprof-9780199656011) in _Health Impact Assessment: Past Achievement, Current Understanding, and Future Progress._ Oxford University Press, 2013. ISBN: 9780199656011.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["_Findings and Recommendations of the Rapid Health Impact Assessment of the Proposed Farmers Field Development_." (PDF - 17.1MB)](http://www.pewtrusts.org/~/media/assets/2012/01/farmers-field-rapid-hia-final-report.pdf) Human Impact Partners, July 2012.
+["_Findings and Recommendations of the Rapid Health Impact Assessment of the Proposed Farmers Field Development_." (PDF - 17.1MB)](http://www.pewtrusts.org/~/media/assets/2012/01/farmers-field-rapid-hia-final-report.pdf) Human Impact Partners, July 2012.
 
 
 {{< tdclose >}}
@@ -100,7 +100,7 @@ Berkman, Lisa F., and Ichiro Kawachi, eds. Chapters 2, 5, and 6 in _Social Epide
 
 White, Gillian. "[A Small Boost in Family Income Makes A Big Difference for Kids](http://www.theatlantic.com/business/archive/2015/09/income-inequality-poverty-children/407512/)." _The Atlantic_, 27 September, 2015.
 
-Marmot, Sir Michael. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Edited Transcript of Interview." (PDF)](http://www.unnaturalcauses.org/assets/uploads/file/MichaelMarmot.pdf) for _Unnatural Causes: Is Inequality Making Us Sick_? Public Broadcasting Service, 2008.
+Marmot, Sir Michael. ["Edited Transcript of Interview." (PDF)](http://www.unnaturalcauses.org/assets/uploads/file/MichaelMarmot.pdf) for _Unnatural Causes: Is Inequality Making Us Sick_? Public Broadcasting Service, 2008.
 
 Muennig, Peter, Lawrence Schweinhart, et al. "Effects of a Prekindergarten Educational Intervention on Adult Health: 37-year Follow-Up Results of a Randomized Controlled Trial." _American Journal of Public Health_ 99, no. 8 (2009): 1431–7. \[Read Introduction, Discussion to end\]
 
@@ -119,11 +119,11 @@ Muennig, Peter, Lawrence Schweinhart, et al. "Effects of a Prekindergarten Educa
 
 Kemm, John. [Chapters 3 and 4](http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199656011.001.0001/acprof-9780199656011) in _Health Impact Assessment: Past Achievement, Current Understanding, and Future Progress._ Oxford University Press, 2013, pp. 9–15. ISBN: 9780199656011.
 
-Bhatia, Rajiv. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["_Health Impact Assessment: A Guide for Practice_." (PDF - 6.5MB)](http://www.pewtrusts.org/~/media/assets/2011/01/01/bhatia_2011_hia_guide_for_practice.pdf) Human Impact Partners, 2011.
+Bhatia, Rajiv. ["_Health Impact Assessment: A Guide for Practice_." (PDF - 6.5MB)](http://www.pewtrusts.org/~/media/assets/2011/01/01/bhatia_2011_hia_guide_for_practice.pdf) Human Impact Partners, 2011.
 
 National Research Council, and Committee on Health Impact Assessment. _[Improving Health in the United States: The Role of Health Impact Assessment](https://www.nap.edu/catalog/13229/improving-health-in-the-united-states-the-role-of-health)_. National Academies Press, 2011, pp. 95–106. ISBN: 9780309218832. \[Preview with [Google Books](http://books.google.com/books?id=iuDsSXvKbMoC&pg=PA95=onepage)\]
 
-Revisited from class 3: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["_Findings and Recommendations of the Rapid Health Impact Assessment of the Proposed Farmers Field Development. Human Impact Partners_." (PDF - 17.1MB)](http://www.pewtrusts.org/~/media/assets/2012/01/farmers-field-rapid-hia-final-report.pdf) Human Impact Partners, July 2012.
+Revisited from class 3: ["_Findings and Recommendations of the Rapid Health Impact Assessment of the Proposed Farmers Field Development. Human Impact Partners_." (PDF - 17.1MB)](http://www.pewtrusts.org/~/media/assets/2012/01/farmers-field-rapid-hia-final-report.pdf) Human Impact Partners, July 2012.
 
 
 {{< tdclose >}}
@@ -243,7 +243,7 @@ Dowd, Jennifer Beam, Anna Zajacova, et al. "[Early Origins of Health Disparities
 
 Frieden, Thomas R. "[A Framework for Public Health Action: The Health Impact Pyramid](https://pdfs.semanticscholar.org/432d/56f63542cc08f59ba68d823536776b6e2e6f.pdf?_ga=2.152179708.475975581.1565631504-672817412.1563980296)." _American Journal of Public Health_ 100, no. 4 (2010): 590–95.
 
-Cardenas, Vanessa, and Sarah Treuhaft. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Chapter 5." (PDF)](https://allinnation.org/ms-content/uploads/sites/2/2013/10/Essay-Ross.pdf) in _All-In Nation: An American that Works for All_. Center for American Progress, PolicyLink.
+Cardenas, Vanessa, and Sarah Treuhaft. ["Chapter 5." (PDF)](https://allinnation.org/ms-content/uploads/sites/2/2013/10/Essay-Ross.pdf) in _All-In Nation: An American that Works for All_. Center for American Progress, PolicyLink.
 
 
 {{< tdclose >}}
@@ -269,7 +269,7 @@ No readings – in-class presentations
 
 Botchwey, Nisha, Marla Orenstein, and Catherine L. Ross. Chapter 3 in _Health Impact Assessment in the United States_. Springer, 2014. ISBN: 9781461473022.
 
-Causa Justa Just Cause. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Development Without Displacement: Resisting Gentrification in the Bay Area." (PDF - 3.5MB)](http://cjjc.org/wp-content/uploads/2015/11/development-without-displacement.pdf) April (2014).
+Causa Justa Just Cause. ["Development Without Displacement: Resisting Gentrification in the Bay Area." (PDF - 3.5MB)](http://cjjc.org/wp-content/uploads/2015/11/development-without-displacement.pdf) April (2014).
 
 [SOPHIA: Society of Practitioners of Health Impact Assessment](https://sophia.wildapricot.org/Model-HIA-Reports)
 
@@ -390,7 +390,7 @@ Corburn, Jason, Shasa Curl, et al. "[A Health-In-All-Policies Approach Addresses
 
 Bassett, Mary T. "[#BlackLivesMatter—A Challenge to the Medical and Public Health Communities](https://dx.doi.org/10.1056/NEJMp1500529)." _The New England Journal of Medicine_ 372, no. 12 (2015): 1085–7.
 
-Chapters 1–3 in ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["A New Way to Talk About the Social Determinants of Health." (PDF – 3.7MB)](http://www.rwjf.org/content/dam/farm/reports/reports/2010/rwjf63023) Robert Wood Johnson Foundation, 2010. \[You may need to open this file manually in Adobe Acrobat\]
+Chapters 1–3 in ["A New Way to Talk About the Social Determinants of Health." (PDF – 3.7MB)](http://www.rwjf.org/content/dam/farm/reports/reports/2010/rwjf63023) Robert Wood Johnson Foundation, 2010. \[You may need to open this file manually in Adobe Acrobat\]
 
 Gollust, Sarah E., Jeff Niederdeppe, et al. "[Framing the Consequences of Childhood Obesity to Increase Public Support for Obesity Prevention Policy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3828688/pdf/AJPH.2013.301271.pdf)." _American Journal of Public Health_ 103, no. 11 (2013): e96–102.
 
